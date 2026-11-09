@@ -1,0 +1,167 @@
+{
+  "status": "ready_for_manual_upload",
+  "files": 30,
+  "sample_art": 13,
+  "contact_sheets": 3,
+  "raw_product_photos": 0,
+  "private_text_markers": 0,
+  "local_links_valid": true,
+  "mit_for_code": true,
+  "images_reference_only": true,
+  "zip": "H:\\办公文件\\西比尔\\2026-11\\7-12K75黑胶手动款\\output\\pixel-brick-product-github-20261109\\pixel-brick-product-public-lite.zip",
+  "zip_bytes": 3648458,
+  "github_uploaded": false,
+  "github_block": "Connected GitHub API returned 403 account suspended",
+  "records": [
+    {
+      "path": ".gitignore",
+      "sha256": "64CC4A4677F61F9756EDF07F6859555E98D9F2A2CF8DE3CFF732C79414D5A5E8",
+      "bytes": 181
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "EC6DDA589A9825696FD63979F61E50DA12EC29631D01A64C6AF2E757E317216B",
+      "bytes": 1089
+    },
+    {
+      "path": "pixel-brick-product/agents/openai.yaml",
+      "sha256": "A23775AD40F37C58352FC7DA0BD3A4820CB5E8A8B56383ED8D1454B6B0704082",
+      "bytes": 368
+    },
+    {
+      "path": "pixel-brick-product/assets/asset-index.json",
+      "sha256": "C88A3A4A978B151FBC366BE1639F6654ED616CFB9CA26EFB41A80841BEB3C94B",
+      "bytes": 3648
+    },
+    {
+      "path": "pixel-brick-product/assets/contact-sheets/four-color-heroes.jpg",
+      "sha256": "2AE0268E5FC6314219F8C84510D7780920E2F3DDEECCC66AB329C83BDE522FBE",
+      "bytes": 107993
+    },
+    {
+      "path": "pixel-brick-product/assets/contact-sheets/four-color-sku.jpg",
+      "sha256": "D727CF5C7971B83FDBF8360440098DA2383BB711C4AF4E1E23CFEE8431E36875",
+      "bytes": 114381
+    },
+    {
+      "path": "pixel-brick-product/assets/contact-sheets/navy-nine.jpg",
+      "sha256": "34DBEBC53C6D593D1F7E5659CD2E7060562EAEEC0210C4728AC94DD206844C6C",
+      "bytes": 254982
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/heroes/black.jpg",
+      "sha256": "FEAA78D9E095067C8CAA7278C1B9668817AF57FDDF48D6DCC7C9A2E0D31E7E23",
+      "bytes": 226947
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/heroes/ivory.jpg",
+      "sha256": "C44B49BDCFE52A6245852F16E9547F1BA285CB3573EA42EE9FC0D8A218219C3E",
+      "bytes": 221991
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/heroes/wine.jpg",
+      "sha256": "CBB5CB43F4AEDDD0C2B9BF7390E0BDAF1F87639E877B3C1C0BC135A12CFCB346",
+      "bytes": 224693
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/listing/01.jpg",
+      "sha256": "36A95AFB8608881A262ED1614796BFA455CCB9E53F1AEFCFFC88D65D35133F2B",
+      "bytes": 223369
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/listing/02.jpg",
+      "sha256": "D1B836B6A71BD749D0023796C49E08E51E9F5E624D9151EAC95D819CD1109DE0",
+      "bytes": 214022
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/listing/03.jpg",
+      "sha256": "CA77D17C89A7CF0A7848376297303CEC1214702F5C24F456F0F0FAE6692EC813",
+      "bytes": 227249
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/listing/04.jpg",
+      "sha256": "825F750E919BF423AC4ACE76E8F959B60E9FDA156DC330E0530E0BE145A22659",
+      "bytes": 249544
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/listing/05.jpg",
+      "sha256": "A5766F537F282BE3D4C0E581085D6D0AD5A4722B8A73CAA2F3F9D8295506DB7E",
+      "bytes": 278104
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/listing/06.jpg",
+      "sha256": "2494FB48132B8D2B0DFF9C5FC9026F66C0756C398C5D0B5085991208D8290DB3",
+      "bytes": 343566
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/listing/07.jpg",
+      "sha256": "1015D553482CFEE1DEC727B1E99897951F5B517627290F39F59ADFD2D0035085",
+      "bytes": 259644
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/listing/08.jpg",
+      "sha256": "423B6AF425526EEFE4EF52C55B9855C80AE3D16C384D78C01CE7EFD00462EF2B",
+      "bytes": 229456
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/listing/09.jpg",
+      "sha256": "5570F4E61D77C499BA276FAA492DBBC8DEA99466F0E85C9378C980CC1B00F94A",
+      "bytes": 216685
+    },
+    {
+      "path": "pixel-brick-product/assets/examples/sku/wine.jpg",
+      "sha256": "A7B7310D677A547AF20CB226E7895E9EEE4018D09BC19C5109B86FD31E2121ED",
+      "bytes": 258466
+    },
+    {
+      "path": "pixel-brick-product/assets/LICENSE.md",
+      "sha256": "FF19A699E86EA7001AA150495957CD391A819978F6C8BBEA28F566C938A78501",
+      "bytes": 1828
+    },
+    {
+      "path": "pixel-brick-product/LICENSE",
+      "sha256": "EC6DDA589A9825696FD63979F61E50DA12EC29631D01A64C6AF2E757E317216B",
+      "bytes": 1089
+    },
+    {
+      "path": "pixel-brick-product/references/prompt-recipes.md",
+      "sha256": "1CBC4D90599A85366A4D674047E2435F39DBB0DD1EC3CB9EC5E21BC681C29FF2",
+      "bytes": 3401
+    },
+    {
+      "path": "pixel-brick-product/references/reference-catalog.md",
+      "sha256": "3B895228A6EDAF9DB958FE5A6AF39F676B29AE059A26D940F6B0E304C040BC1D",
+      "bytes": 1280
+    },
+    {
+      "path": "pixel-brick-product/references/storyboard.md",
+      "sha256": "7FF5497E8BEE49DBD2C0CD8ABAB88D258E38F522BE547E0C36C436744A808E86",
+      "bytes": 1923
+    },
+    {
+      "path": "pixel-brick-product/references/style-guide.md",
+      "sha256": "6E56B9FD4C0B7BEA7324E0E70D1C6D902CD168FB4FCDE3FD86E1761F6BCE6BAA",
+      "bytes": 2909
+    },
+    {
+      "path": "pixel-brick-product/scripts/export-upload-jpg.ps1",
+      "sha256": "1D4F7084BAE1E224A3F81585C4ABCF032EA07C73D8A3D05E55870D7DAAFED722",
+      "bytes": 8798
+    },
+    {
+      "path": "pixel-brick-product/scripts/make-contact-sheet.ps1",
+      "sha256": "99409C9D93A391BF6DDA825CA448011D027B065C801C1E51A3013E10E78B2991",
+      "bytes": 3413
+    },
+    {
+      "path": "pixel-brick-product/SKILL.md",
+      "sha256": "4059E34C9AF503664FF49B45625B4315279B32E938B9CAA3D8893DEAA664843E",
+      "bytes": 5772
+    },
+    {
+      "path": "README.md",
+      "sha256": "691FA80CE7BF644A6C77FAE3EDAC652FF0D2DD6720751CE53AC730B5900F91BF",
+      "bytes": 3882
+    }
+  ]
+}

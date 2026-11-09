@@ -1,0 +1,4 @@
+interface:
+  display_name: "3D像素积木风商品图"
+  short_description: "真实商品搭配立体像素积木、居中泰文标题与错落底座，复用已确认风格制作主图和SKU"
+  default_prompt: "使用 $pixel-brick-product，根据我提供的商品实拍制作3D像素积木风商品图，保持实物结构和材质，先提供审核预览。"
