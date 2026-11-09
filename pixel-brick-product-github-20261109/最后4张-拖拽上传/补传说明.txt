@@ -1,9 +1,0 @@
-最后4张样图补传
-
-1. 在 Edge 打开：https://github.com/yoonekin-sketch/pixel-brick-product/upload/main
-2. 把本目录中的整个 pixel-brick-product 文件夹拖入 GitHub 上传区域。请拖整个文件夹，保留内部路径。
-3. 应显示4张新增文件：heroes/black.jpg、heroes/ivory.jpg、heroes/wine.jpg、sku/wine.jpg。
-4. 点击绿色 Commit changes 按钮。
-5. 完成后回复：上传好了。助手将下载公开仓库核对30个文件。
-
-文件均来自已批准的公开精简版，不包含原始实拍。
