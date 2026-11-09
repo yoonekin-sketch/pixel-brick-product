@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.codex/
+validation/
+outputs/
+work/
+*.log
+local-build-provenance.json
+install-plan.json
+installation-result.json
